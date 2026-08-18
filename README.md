@@ -129,6 +129,7 @@ Movie-Review-Sentiment-Analysis/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ---
 
